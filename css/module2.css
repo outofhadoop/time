@@ -1,0 +1,62 @@
+#p01,#p02,#p03,#p04,#p05,#p06,#u01s03p03,#u01s03p04,#p07,#p08,#p09,#p10,#p11,#p12{width: 784px;height: 439px;display: none;position: absolute;}
+.module{background: url(../sco/img/home/white_border.png);background-size: 100% 100%;}
+#p02{display:none;background: url(../sco/img/2/mode2_bg.png) no-repeat;background-size: 100% 100%;}
+
+#p03{background: url(../sco/img/2/rs_jz_xn_t2_bg_1.png) no-repeat;background-size: 100% 100%;}
+
+.p03start{cursor: pointer;left: 20px;position: absolute;top: 124px;width: 89px;height: 150px;}
+.p03q1{width: 89px;height: 94px;left: 281px;top: 152px;position: absolute;cursor: pointer;}
+.p03q2{width: 76px;height: 65px;left: 431px;top: 227px;position: absolute;cursor: pointer;}
+.p03q3{width: 63px;height: 74px;left: 503px;top: 133px;position: absolute;cursor: pointer;}
+.p03q4{width: 112px;height: 82px;left: 646px;top: 143px;position: absolute;cursor: pointer;}
+.p03over{position: absolute;left: 646px;top: 360px;display: none;cursor: pointer;}
+.p03red{position: absolute;top: 124px;left: 707px;display: none;}
+
+
+#p04{background: url(../sco/img/2/q1.png) no-repeat;background-size: 100% 100%;}
+.p04res{position: absolute;display: none;left: 218px;top: 70px;}
+.p04submit{left: 320px;display: none;cursor: pointer;position: absolute;top: 375px;}
+.p04currentSele{position: absolute;left: 47px;display: none;}
+.p04sele1{position: absolute;width: 300px;height: 28px;left: 85px;top: 186px;cursor: pointer;}
+.p04sele2{position: absolute;width: 300px;height: 28px;left: 85px;top: 234px;cursor: pointer;}
+.p04sele3{position: absolute;width: 485px;height: 28px;left: 85px;top: 279px;cursor: pointer;}
+.p04sele4{position: absolute;width: 485px;height: 28px;left: 85px;top: 326px;cursor: pointer;}
+
+#p05{background: url(../sco/img/2/q2.png) no-repeat;background-size: 100% 100%;}
+.p05res{position: absolute;display: none;left: 218px;top: 70px;}
+.p05submit{left: 320px;display: none;cursor: pointer;position: absolute;top: 375px;}
+.p05currentSele{position: absolute;left: 47px;display: none;}
+.p05sele1{position: absolute;width: 652px;height: 28px;left: 85px;top: 157px;cursor: pointer;}
+.p05sele2{position: absolute;width: 602px;height: 28px;left: 85px;top: 205px;cursor: pointer;}
+.p05sele3{position: absolute;width: 528px;height: 28px;left: 85px;top: 254px;cursor: pointer;}
+.p05sele4{position: absolute;width: 485px;height: 28px;left: 85px;top: 304px;cursor: pointer;}
+
+#p06{background: url(../sco/img/2/q3.png) no-repeat;background-size: 100% 100%;}
+.p06res{position: absolute;display: none;left: 218px;top: 70px;}
+.p06submit{left: 320px;display: none;cursor: pointer;position: absolute;top: 375px;}
+.p06currentSele{position: absolute;left: 47px;display: none;}
+.p06sele1{position: absolute;width: 652px;height: 28px;left: 85px;top: 157px;cursor: pointer;}
+.p06sele2{position: absolute;width: 602px;height: 28px;left: 85px;top: 205px;cursor: pointer;}
+.p06sele3{position: absolute;width: 528px;height: 28px;left: 85px;top: 254px;cursor: pointer;}
+.p06sele4{position: absolute;width: 485px;height: 28px;left: 85px;top: 304px;cursor: pointer;}
+
+#p07{background: url(../sco/img/2/q4.png) no-repeat;background-size: 100% 100%;}
+.p07res{position: absolute;display: none;left: 218px;top: 70px;}
+.p07submit{left: 320px;display: none;cursor: pointer;position: absolute;top: 375px;}
+.p07currentSele{position: absolute;left: 47px;display: none;}
+.p07sele1{position: absolute;width: 652px;height: 28px;left: 85px;top: 157px;cursor: pointer;}
+.p07sele2{position: absolute;width: 602px;height: 28px;left: 85px;top: 205px;cursor: pointer;}
+.p07sele3{position: absolute;width: 528px;height: 28px;left: 85px;top: 254px;cursor: pointer;}
+.p07sele4{position: absolute;width: 485px;height: 28px;left: 85px;top: 304px;cursor: pointer;}
+
+#p08{background: url(../sco/img/2/q5.png) no-repeat;background-size: 100% 100%;}
+.p08res{position: absolute;display: none;left: 218px;top: 70px;}
+.p08submit{left: 320px;display: none;cursor: pointer;position: absolute;top: 375px;}
+.p08currentSele{position: absolute;left: 47px;display: none;}
+.p08sele1{position: absolute;width: 652px;height: 28px;left: 85px;top: 138px;cursor: pointer;}
+.p08sele2{position: absolute;width: 602px;height: 60px;left: 85px;top: 184px;cursor: pointer;}
+.p08sele3{position: absolute;width: 528px;height: 60px;left: 85px;top: 254px;cursor: pointer;}
+.p08sele4{position: absolute;width: 485px;height: 60px;left: 85px;top: 304px;cursor: pointer;}
+
+#p09{background: url(../sco/img/modFinish.png) no-repeat;background-size: 100% 100%;}
+.p09finish{position: absolute;cursor: pointer;width: 107px;height: 37px;top: 261px;left: 331px;}

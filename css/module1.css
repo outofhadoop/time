@@ -1,0 +1,20 @@
+#p01,#p02,#p03,#p04,#p05,#p06,#u01s03p03,#u01s03p04,#p07,#p08,#p09,#p10,#p11,#p12{width: 784px;height: 439px;display: none;position: absolute;background-size: 100% 100%;}
+.module{background: url(../sco/img/home/homeInner.png);background-size: 100% 100%;}
+#p02{display:none;background: url(../sco/img/home/home_innerImg.png) no-repeat;background-size: 100% 100%;}
+
+#p03{background: url(../sco/img/1/rs_jz_zg_t2_bg.png) no-repeat;background-size: 100% 100%;}
+.textLine{border-top: 1px solid;left: 396px;position: absolute;width: 200px;}
+.textLine1{top: 150px;}
+.textLine2{top: 195px;}
+.textLine3{top: 240px;}
+.input_div input{border: none;height: 24px;font-size: 24px;width: 200px;background-color: #f6f0e9;left: 400px;position: absolute;outline: none;}
+.input_div1 input{top: 125px;}
+.input_div2 input{top: 169px;}
+.input_div3 input{top: 213px;}
+.p03finish{left: 350px;position: absolute;top: 300px;cursor: pointer;display: none;}
+
+#p04{background: url(../sco/img/1/rs_jz_zg_t2_2_bg.png) no-repeat;background-size: 100% 100%;}
+
+#p05{background: url(../sco/img/modFinish.png) no-repeat;background-size: 100% 100%;}
+.p05finish{position: absolute;cursor: pointer;width: 107px;height: 37px;top: 261px;left: 331px;}
+

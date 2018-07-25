@@ -1,0 +1,6 @@
+#p01,#p02,#p03,#p04,#p05,#p06,#u01s03p03,#u01s03p04,#p07,#p08,#p09,#p10,#p11,#p12{width: 784px;height: 439px;display: none;position: absolute;}
+.module{background: url(../sco/img/home/white_border.png);background-size: 100% 100%;}
+#p02{display:block;background: url(../sco/img/modeFinish.png) no-repeat;background-size: 100% 100%;}
+
+.finishRight{display: block;left: 348px;position: absolute;top: 300px;cursor: pointer;}
+

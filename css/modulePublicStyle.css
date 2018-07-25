@@ -1,0 +1,35 @@
+
+*{
+	margin: 0px;
+	padding: 0;
+}
+.backGround{position: absolute;}
+iframe{position: absolute;left: 76px;top: 87px;z-index: 98;width: 849px;height: 479px;border: none;overflow: hidden;}
+iframe *{overflow: hidden;padding: 0;margin: 0;}
+html{overflow: hidden;}
+.module{width: 100%;height: 100%;}
+.position_absolute{position: absolute;}
+.cursor_pointer{cursor: pointer;}
+.video-js{left: 177px;top: 89px;z-index: 199;}
+.backGround{width: 1000px;height: 585px;background: url("../sco/img/homebg.png");background-size: 100% 100%;}
+.stage{width: 1000px;height: 585px;background-size: 100% 100%;}
+.display_none{display: none;}
+.videoNext{background: url(../sco/img/home/modebg.png) no-repeat;background-size: 100% 100%;width: 784px;height: 439px;position: absolute;display: none;z-index: 100;}
+.videoNextClick{cursor: pointer;position: absolute;left: 334px;top: 200px;}
+
+/*menu*/
+.menubtn{position: absolute;left: 939px;top: 523px;width: 51px;height: 53px;cursor: pointer;}
+.gom1{display: inline-block;top: 32px;}
+.gom2{display: inline-block;top: 32px;}
+.gom3{display: inline-block;top: 32px;}
+.gom4{display: inline-block;top: 32px;}
+.gom{width: 188px;text-align: center;position: relative;left: 14px;height: 40px;padding-top: 15px;user-select: none;cursor: pointer;}
+.gom img{display: inline-block;}
+.menuBox{width: 206px;height: 299px;position: absolute;background: url("../sco/img/menu.png") no-repeat;left: 789px;top: 233px;z-index: 999;cursor: pointer;display: none;}
+
+
+
+
+
+
+
